@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+A sample front-end bootstrap courier management website.
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
